@@ -1,4 +1,4 @@
-#This is a Github project
+#This is a Python based calculator
 print("This is a python calculator")
 while True:
     try:
